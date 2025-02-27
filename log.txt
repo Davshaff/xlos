@@ -1,0 +1,3 @@
+ | 12/09/2021 09:46:29am |  | Windows 10 | Firefox
+ | 17/09/2021 10:35:32am |  | Windows Vista | Chrome
+ | 25/09/2021 03:37:40pm |  | Windows 8.1 | Chrome
